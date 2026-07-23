@@ -59,6 +59,37 @@
   </a>
 </p>
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+<h3 align="center">🎮 GameStore</h3>
+<p align="center">
+  <img width="400" height="350" alt="AkVortex_Logo" src="https://github.com/user-attachments/assets/13bb7332-bece-42aa-9e3d-bcb930a4bc36" />
+</p>
+
+<p>
+Full-stack video game store built with React, PHP and MySQL.
+</p>
+</td>
+<td width="50%">
+<h3 align="center">📊 HSE Smart OPL Tracker</h3>
+
+<p align="center">
+  <img width="400" height="330" alt="Logo-HSE" src="https://github.com/user-attachments/assets/28434979-b08e-4f03-becd-218c78f3cd6c" />
+</p>
+
+<p>
+Power BI dashboard for HSE analytics and KPI tracking.
+</p>
+
+</td>
+
+</tr>
+</table>
+
  <div align=center>
         <h1>Contribution Activity</h1>
         <img src="https://github-readme-stats.vercel.app/api?username=jose-esquivel-dev&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
