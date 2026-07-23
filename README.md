@@ -73,7 +73,7 @@
     </div>
     <div align="center">
     <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-    <p>Loading Jose...</p>
+    <p>Building awesome projects...</p>
 </div>
 
 <br><br>
