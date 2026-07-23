@@ -34,7 +34,7 @@
 ### Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=react"/>
   </a>
 </p>
 
@@ -55,7 +55,7 @@
 ### Tools 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vite,figma,github,gmail,obsidian" />
+    <img src="https://skillicons.dev/icons?i=vscode,vite,nodejs,figma,github,gmail,obsidian" />
   </a>
 </p>
 
