@@ -59,7 +59,7 @@
   </a>
 </p>
 
-### Cloude
+### Cloud
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,firebase" />
