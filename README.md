@@ -27,7 +27,7 @@
 ### Programming Languaje
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,py,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,py,cpp" />
   </a>
 </p>
 
