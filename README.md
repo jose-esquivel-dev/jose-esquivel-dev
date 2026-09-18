@@ -55,14 +55,14 @@
 ### Tools 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vite,nodejs,figma,github,gmail,obsidian" />
+    <img src="https://skillicons.dev/icons?i=vscode,vite,nodejs,figma,github,git,gmail,obsidian" />
   </a>
 </p>
 
 ### Cloud
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,firebase" />
+    <img src="https://skillicons.dev/icons?i=aws,firebase,nginx" />
   </a>
 </p>
 
