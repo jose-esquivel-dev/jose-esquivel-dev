@@ -41,7 +41,7 @@
 ### Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
   </a>
 </p>
 
@@ -56,6 +56,13 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,vite,nodejs,figma,github,gmail,obsidian" />
+  </a>
+</p>
+
+### Cloude
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,firebase" />
   </a>
 </p>
 
